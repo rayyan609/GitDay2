@@ -6,8 +6,6 @@ public class Homepage {
     // navigation menu
     // more things for the homepage
        //
-
     // add more things
         // footer
-
 }
