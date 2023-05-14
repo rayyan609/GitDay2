@@ -5,4 +5,5 @@ public class Sales {
     //20%
     //..
     //more sales items
+    // added holidays sales 25%
 }
